@@ -1,6 +1,6 @@
 # Vincent Welch
 ### 1017 Jefferson Street Hoboken, NJ 07030
-### 732-425-3357 | vwelch1995@gmail.com | [title](https://www.linkedin.com/in/vincent-welch)
+### 732-425-3357 | vwelch1995@gmail.com | [www.linkedin.com/in/vincent-welch](https://www.linkedin.com/in/vincent-welch)
 
 ## Career Objective
 
