@@ -1,12 +1,9 @@
-# **Vincent Welch**
-###### 1017 Jefferson Street Hoboken, NJ 07030 | 732-425-3357 | vwelch1995@gmail.com | [www.linkedin.com/in/vincent-welch](https://www.linkedin.com/in/vincent-welch)
-
-## **Career Objective**
+# **Career Objective**
 
 General securities principal and registered representative with Wall Street experience as a financial professional at a reputable agency-only institutional brokerage seeking new opportunities to fulfill my career aspirations and continue to pursue a path in which I have a strong passion and desire to become successful in so I can use my knowledge for good and help others achieve their investment goals
 
-## **Professional Experience**
-### Rosenblatt Securities, New York, NY
+# **Professional Experience**
+## Rosenblatt Securities, New York, NY
 
 Compliance Officer, *February 2020—Present*
 -	Monitor internal trading and outside business activity of member firm employees to ensure they comply
@@ -29,5 +26,5 @@ Floor Broker, *November 2018—Present*
 -	Understand the fundamentals of order types, priority and parity, NYSE rules and regulations
 -	Track buy and sell imbalances to communicate effective strategies with the team and clients
 
-## **Certifications**
+# **Certifications**
 Securities Industry Essentials (SIE), Series 7, 63, 24, 87, 99, and 19
